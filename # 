@@ -1,0 +1,572 @@
+
+<!doctype html>
+
+<html lang="en" class="en-us">
+<head>
+
+
+
+<meta charset="utf-8"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="viewport" content="width=1332"/>
+<title>Brushless DC (BLDC) Drivers | Products | Motor Drivers | TI.com</title> 
+
+<meta name="keywords"/>
+<meta name="description" content="BLDC motor drivers for industrial, automotive and functional safety applications. Integrated logic or pair with MCUs for sensored and sensorless control. "/>
+
+
+<script type="text/javascript">
+var tiPageName;
+tiPageName = "Brushless DC \u0028BLDC\u0029 motor drivers Products Tab-EN";
+</script>
+<script type="text/javascript">
+var tiContentGroup;
+tiContentGroup = "/Analog and Mixed-Signal/motor drivers/brushless dc \u0028bldc\u0029 motor drivers/";
+</script>
+<script type="text/javascript">
+var tiTemplate;
+tiTemplate = "product portal";
+</script>
+<script type="text/javascript">
+var tiProductPathID;
+tiProductPathID = "/2004/2009/";
+</script>
+
+<script type="text/javascript">
+var tiPageTranslationStatus;
+tiPageTranslationStatus = "";
+</script>
+<script type="text/javascript">
+var tiPageStatus;
+tiPageStatus = "2017-08-22 19:25:22";
+</script>
+<script type="text/javascript">
+var tiCMS;
+tiCMS = "2.0";
+</script>
+<script src="/assets/js/headerfooter/analytics.js" type="text/javascript"></script>
+
+
+
+
+
+
+<script type="text/javascript" src="/assets/en/js/homepage/jquery-3.5.1.min.js"></script>
+
+
+
+<link rel="canonical" href="https://www.ti.com/motor-drivers/brushless-dc-bldc-drivers/products.html"/>
+
+<link rel="alternate" hreflang="zh-Hans-cn" href="https://www.ti.com.cn/zh-cn/motor-drivers/brushless-dc-bldc-drivers/products.html"/>
+
+<link rel="alternate" hreflang="de-de" href="https://www.ti.com/de-de/motor-drivers/brushless-dc-bldc-drivers/products.html"/>
+
+<link rel="alternate" hreflang="ko-kr" href="https://www.ti.com/ko-kr/motor-drivers/brushless-dc-bldc-drivers/products.html"/>
+
+<link rel="alternate" hreflang="en" href="https://www.ti.com/motor-drivers/brushless-dc-bldc-drivers/products.html"/>
+
+<link rel="alternate" hreflang="ja-jp" href="https://www.tij.co.jp/ja-jp/motor-drivers/brushless-dc-bldc-drivers/products.html"/>
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/assets/style/ticom.global.css"/>
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/ti/clientlibs/clientlib-all.min.css" type="text/css">
+
+
+
+
+ 
+
+
+
+
+
+
+</head>
+<!--[if IE 8]> <body class="ie8"> <![endif]-->
+<!--[if gt IE 11]><!-->
+<body>
+	<div class="js-backToTop"></div>
+	<!--<![endif]-->
+	
+
+
+
+
+<header id="tiHeader" data-language="en-us">
+	
+	
+		<script type="text/javascript" src="/assets/en/js/headerfooter/com.TI.header.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/assets/js/headerfooter/0.0.1/en/header.js"></script>
+		<script nomodule src="/assets/js/@ticom/polyfills/1.1.2/polyfills.js"></script>
+		<script type="module" src="/assets/js/@ticom/ui-components/2.12.2/ui-components.esm.js"></script>
+		<script nomodule src="/assets/js/@ticom/ui-components/2.12.2/ui-components.js"></script>
+		<script type="module" src="/assets/js/@ticom/header-components/2.latest/header-components.esm.js"></script>
+		<script nomodule src="/assets/js/@ticom/header-components/2.latest/header-components.js"></script>
+		<script type="module" src="/assets/js/@ticom/feature-components/1.17.2/feature-components.esm.js"></script>
+		<script nomodule src="/assets/js/@ticom/feature-components/1.17.2/feature-components.js"></script>
+		<script type="text/javascript" src="/assets/en/js/headerfooter/cartpreview.js"></script>
+		<script type="text/javascript" src="/assets/en/js/headerfooter/commonjsproperties.js"></script>
+		<script class="coveo-script" src="/assets/sitesearch/js/CoveoJsSearch.Lazy.min.js"></script>
+		<script src="/assets/sitesearch/js/cultures/en-us.js"></script>
+		
+	
+	
+	
+</header>
+<!-- header end --> 
+<br/>
+<div class="ti_p-page-centered">
+
+
+
+
+
+
+<ti-breadcrumb class="breadcrumb" data-lid="breadcrumb">
+        <ti-breadcrumb-section data-lid="breadcrumb_0-Home" label="Home" bid="0" is-home>
+            <a slot="trigger" id="ti-breadcrumb-section-0" href="https://www.ti.com">Home</a>
+        </ti-breadcrumb-section>
+        
+        
+             
+             
+                <ti-breadcrumb-section data-lid="breadcrumb_1-Motor drivers" size="16" label="Motor drivers" bid="1">
+                        <a slot="trigger" id="ti-breadcrumb-section-1" href="https://www.ti.com/motor-drivers/overview.html">Motor drivers</a>
+                        <ul role="menu" class="ti-breadcrumb-section">
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-1" href="https://www.ti.com/amplifier-circuit/overview.html">Amplifiers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-2" href="https://www.ti.com/audio-ic/overview.html">Audio</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-3" href="https://www.ti.com/clocks-timing/overview.html">Clocks &amp; timing</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-4" href="https://www.ti.com/data-converters/overview.html">Data converters</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-5" href="https://www.ti.com/die-wafer-services/overview.html">Die &amp; wafer services</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-6" href="https://www.ti.com/dlp-chip/overview.html">DLP products</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-7" href="https://www.ti.com/interface/overview.html">Interface</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-8" href="https://www.ti.com/isolation/overview.html">Isolation</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-9" href="https://www.ti.com/logic-voltage-translation/overview.html">Logic &amp; voltage translation</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-10" href="https://www.ti.com/microcontrollers-mcus-processors/overview.html">Microcontrollers (MCUs) &amp; processors</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-11" href="https://www.ti.com/motor-drivers/overview.html">Motor drivers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-12" href="https://www.ti.com/power-management/overview.html">Power management</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-13" href="https://www.ti.com/rf-microwave/overview.html">RF &amp; microwave</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-14" href="https://www.ti.com/sensors/overview.html">Sensors</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-15" href="https://www.ti.com/switches-multiplexers/overview.html">Switches &amp; multiplexers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-1-item-16" href="https://www.ti.com/wireless-connectivity/overview.html">Wireless connectivity</a>
+                            </li>
+                        </ul>
+                </ti-breadcrumb-section>
+            
+        
+             
+             
+                <ti-breadcrumb-section data-lid="breadcrumb_2-Brushless DC (BLDC) motor drivers" size="9" label="Brushless DC (BLDC) motor drivers" bid="2">
+                        <a slot="trigger" id="ti-breadcrumb-section-2" href="https://www.ti.com/motor-drivers/brushless-dc-bldc-drivers/overview.html">Brushless DC (BLDC) motor drivers</a>
+                        <ul role="menu" class="ti-breadcrumb-section">
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-2-item-1" href="https://www.ti.com/motor-drivers/actuator-drivers/overview.html">Actuator drivers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-2-item-2" href="https://www.ti.com/motor-drivers/brushed-dc-bdc-drivers/overview.html">Brushed DC (BDC) motor drivers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-2-item-3" href="https://www.ti.com/motor-drivers/brushless-dc-bldc-drivers/overview.html">Brushless DC (BLDC) motor drivers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-2-item-4" href="https://www.ti.com/power-management/gate-drivers/half-bridge-drivers/overview.html">Half-bridge drivers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-2-item-5" href="https://www.ti.com/power-management/gate-drivers/isolated-gate-drivers/overview.html">Isolated gate drivers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-2-item-6" href="https://www.ti.com/power-management/gate-drivers/low-side-drivers/overview.html">Low-side drivers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-2-item-7" href="https://www.ti.com/motor-drivers/optical-disk-drivers/overview.html">Optical disk drivers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-2-item-8" href="https://www.ti.com/motor-drivers/solenoid/overview.html">Solenoid drivers</a>
+                            </li>
+                        
+                            <li role="presentation">
+                                <a class="ti-breadcrumb-section-link" id="ti-breadcrumb-section-2-item-9" href="https://www.ti.com/motor-drivers/stepper-driver/overview.html">Stepper motor drivers</a>
+                            </li>
+                        </ul>
+                </ti-breadcrumb-section>
+            
+             
+ </ti-breadcrumb>
+<div>
+
+
+
+<h2 data-lid="portalTitle">
+    <a href="https://www.ti.com/motor-drivers/overview.html">Motor drivers</a>
+</h2>
+</div>
+</div>
+<div class="ti_p-page-full">
+<div class="pageGroup">
+
+
+	<div class="pageContent">
+
+		
+
+<nav class="ti_left-nav u-clear" data-lid="productNavigation">
+	<span class="ti_left-nav-collapse u-cursor-pointer js-left-nav-collapse">
+        <div class="ti_icon mod-size-m mod-color1">
+          <svg role="img">
+            <use xlink:href="/etc/designs/ti/images/icons/svg/ti_icons-objects.svg#chevron-left"></use>
+          </svg>
+        </div>
+    </span>  
+    <span class="ti_left-nav-expand u-cursor-pointer js-left-nav-expand">
+        <div class="ti_icon mod-size-m mod-color1">
+          <svg role="img">
+            <use xlink:href="/etc/designs/ti/images/icons/svg/ti_icons-objects.svg#chevron-right"></use>
+          </svg>
+        </div>
+        <span>Menu</span>
+    </span>  
+    
+    <div class="ti_left-nav-container ti_productTree">
+		<h2 class="ti-nav-title">Product tree</h2>
+		
+			
+			<ul>
+			
+
+				
+					<li class="ti-nav-level1"><a class="navItem " href="https://www.ti.com/motor-drivers/actuator-drivers/overview.html">Actuator drivers (16)</a>
+				 
+				 
+					<ul>
+						
+							<li class="ti-nav-level2"><a class="navItem " href="https://www.ti.com/motor-drivers/actuator-drivers/haptic-motor-drivers/products.html"> Haptic motor drivers (11)</a>
+						
+						
+							</li>
+					
+						
+							<li class="ti-nav-level2"><a class="navItem " href="https://www.ti.com/motor-drivers/actuator-drivers/piezo-drivers/products.html"> Piezo drivers (5)</a>
+						
+						
+							</li>
+					</ul>
+				</li>
+				
+			
+			
+
+				
+					<li class="ti-nav-level1"><a class="navItem " href="https://www.ti.com/motor-drivers/brushed-dc-bdc-drivers/overview.html">Brushed DC (BDC) motor drivers (86)</a>
+				 
+				 
+					
+				</li>
+				
+			
+			
+
+				
+					<li class="ti-nav-level1"><a class="navItem is-active" href="https://www.ti.com/motor-drivers/brushless-dc-bldc-drivers/overview.html">Brushless DC (BLDC) motor drivers (53)</a>
+				 
+				 
+					
+				</li>
+				
+			
+			
+
+				
+					<li class="ti-nav-level1"><a class="navItem " href="https://www.ti.com/power-management/gate-drivers/half-bridge-drivers/overview.html">Half-bridge drivers (64)</a>
+				 
+				 
+					
+				</li>
+				
+			
+			
+
+				
+					<li class="ti-nav-level1"><a class="navItem " href="https://www.ti.com/power-management/gate-drivers/isolated-gate-drivers/overview.html">Isolated gate drivers (54)</a>
+				 
+				 
+					
+				</li>
+				
+			
+			
+
+				
+					<li class="ti-nav-level1"><a class="navItem " href="https://www.ti.com/power-management/gate-drivers/low-side-drivers/overview.html">Low-side drivers (117)</a>
+				 
+				 
+					
+				</li>
+				
+			
+			
+
+				
+					<li class="ti-nav-level1"><a class="navItem " href="https://www.ti.com/motor-drivers/optical-disk-drivers/overview.html">Optical disk drivers (5)</a>
+				 
+				 
+					
+				</li>
+				
+			
+			
+
+				
+					<li class="ti-nav-level1"><a class="navItem " href="https://www.ti.com/motor-drivers/solenoid/overview.html">Solenoid drivers (16)</a>
+				 
+				 
+					
+				</li>
+				
+			
+			
+
+				
+					<li class="ti-nav-level1"><a class="navItem " href="https://www.ti.com/motor-drivers/stepper-driver/overview.html">Stepper motor drivers (55)</a>
+				 
+				 
+					
+				</li>
+				
+			</ul>
+			
+		 
+		
+	</div>
+	
+	
+		
+			
+		 
+	</nav>
+	
+
+
+		<div class="portal">
+			
+	<nav class="ti_tabs u-clear" data-lid="productTabs">
+            <ul>
+                
+                    
+                    	
+						
+							<li>
+								<a href="https://www.ti.com/motor-drivers/brushless-dc-bldc-drivers/overview.html"> <span> Overview </span></a>
+							</li>
+                        
+                
+                    
+                    	
+						
+							<li class="is-active">
+								<a href="# "> <span> Products </span></a>
+							</li>
+                        
+                
+                    
+                    	
+						
+							<li>
+								<a href="https://www.ti.com/motor-drivers/brushless-dc-bldc-drivers/featured-products.html"> <span> Featured products </span></a>
+							</li>
+                        
+                
+                    
+                    	
+						
+							<li>
+								<a href="https://www.ti.com/motor-drivers/brushless-dc-bldc-drivers/applications.html"> <span> Applications </span></a>
+							</li>
+                        
+                
+                    
+                    	
+						
+							<li>
+								<a href="https://www.ti.com/motor-drivers/brushless-dc-bldc-drivers/technical-document.html"> <span> Technical documents </span></a>
+							</li>
+                        
+                
+            </ul>
+	</nav>
+
+    
+                   
+    
+                   
+    
+                   
+    
+                   
+    
+                   
+    
+
+
+				<div class="content">
+				
+	
+
+
+
+
+<h1>Brushless DC (BLDC) motor drivers – Products</h1>
+ 
+
+
+	
+
+
+ 
+
+
+
+	
+	
+
+<link type="text/css" href="//www.ti.com/assets/js/selectiontool/ticom4-selection.css" rel="stylesheet"/>
+<style type="text/css">
+	/* Fix for spanning width problem */
+	ti-selection-tool .rst-overflow-area { padding: 0 }
+	.pageGroup { width:100% }
+	.portal { width: calc(100% - 260px); padding-right: 2rem }
+	.ti_left-nav.is-collapsed { position: absolute; width: auto }
+	.ti_left-nav.is-collapsed ~ .portal { width: 100%; padding-left: 40px }
+	
+	/* LI style for one-click parameter search */	
+	ti-quick-searches ul > li {
+	    border-bottom: 1px dotted silver;
+	    margin: 0;
+	    padding: .5em 0;
+	    background: no-repeat 0 .5em;
+	}
+	
+	/* Line up items underneath the Quick Search headings */
+	ti-selection-tool h2:first-of-type {
+    	margin-left: initial;
+        padding-bottom: initial;
+	}
+</style>
+
+<script type="text/javascript" src="//www.ti.com/assets/js/selectiontool/com.TI.selectionTool.min.js"></script>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr valign="top">
+			<td width="100%">
+				<ti-selection-tool class="rst" familyid="2009" productdomain="www.ti.com" data-lid="selectiontool"></ti-selection-tool>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+			</div>
+		</div>
+	
+			
+
+	</div>
+</div>
+</div>
+
+
+
+
+<div id="tiFooter"></div>
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/assets/js/@ticom/header-content/1.latest/en/js/footer.js"></script>
+<script type="text/javascript" src="/assets/en/js/homepage/sitesearch-header-min.js"></script>
+	
+	
+
+
+    
+<script src="/etc.clientlibs/ti/clientlibs/clientlib-all.min.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript"  src="/XQU1/BWkP/5MjqP/kMOl/Q/r73NmSGw/M0lvcEBEAQ/UF14/N3Y3PXQ"></script><link rel="stylesheet" type="text/css" href="/_sec/cp_challenge/sec-3-6.css">
+            <script src="/_sec/cp_challenge/sec-cpt-3-6.js" async defer></script>
+            <div id="sec-overlay" style="display:none;">
+            <div id="sec-container">
+            </div>
+          </div></body>
+</html>
